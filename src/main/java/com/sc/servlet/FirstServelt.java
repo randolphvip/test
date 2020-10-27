@@ -1,4 +1,4 @@
-package com.sc.test;
+package com.sc.servlet;
 
 import java.io.IOException;
 
