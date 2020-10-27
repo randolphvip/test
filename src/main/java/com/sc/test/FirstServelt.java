@@ -16,7 +16,8 @@ public class FirstServelt extends HttpServlet {
 		a=0;
 		int b=a/0;
 		String ab;
-		
+		int cc=100/0;
+		System.out.println(cc);
 	}
 	
 
